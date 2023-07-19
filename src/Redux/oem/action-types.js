@@ -1,0 +1,3 @@
+export const OEM_CAR_REQ = "OEM_CAR_REQ";
+export const OEM_CAR_REQ_SUCCESS = "OEM_CAR_REQ_SUCCESS";
+export const OEM_CAR_REQ_FAILURE = "OEM_CAR_REQ_FAILURE";
